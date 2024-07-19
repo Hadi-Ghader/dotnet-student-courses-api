@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\bin\Debug\net8.0\Courses_Students.Infrastructure.deps.json
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\bin\Debug\net8.0\Courses_Students.Infrastructure.dll
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\bin\Debug\net8.0\Courses_Students.Infrastructure.pdb
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\bin\Debug\net8.0\Courses_Students.Core.dll
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\bin\Debug\net8.0\Courses_Students.Core.pdb
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\obj\Debug\net8.0\Courses_Students.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\obj\Debug\net8.0\Courses_Students.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\obj\Debug\net8.0\Courses_Students.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\obj\Debug\net8.0\Courses_Students.Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\obj\Debug\net8.0\Courses_Students.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\obj\Debug\net8.0\Courses_.F2A2DF81.Up2Date
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\obj\Debug\net8.0\Courses_Students.Infrastructure.dll
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\obj\Debug\net8.0\refint\Courses_Students.Infrastructure.dll
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\obj\Debug\net8.0\Courses_Students.Infrastructure.pdb
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Infrastructure\obj\Debug\net8.0\ref\Courses_Students.Infrastructure.dll

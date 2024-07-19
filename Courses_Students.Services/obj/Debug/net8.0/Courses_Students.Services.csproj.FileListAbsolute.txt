@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\bin\Debug\net8.0\Courses_Students.Services.deps.json
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\bin\Debug\net8.0\Courses_Students.Services.dll
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\bin\Debug\net8.0\Courses_Students.Services.pdb
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\bin\Debug\net8.0\Courses_Students.Core.dll
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\bin\Debug\net8.0\Courses_Students.Infrastructure.dll
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\bin\Debug\net8.0\Courses_Students.Infrastructure.pdb
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\bin\Debug\net8.0\Courses_Students.Core.pdb
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\obj\Debug\net8.0\Courses_Students.Services.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\obj\Debug\net8.0\Courses_Students.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\obj\Debug\net8.0\Courses_Students.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\obj\Debug\net8.0\Courses_Students.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\obj\Debug\net8.0\Courses_Students.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\obj\Debug\net8.0\Courses_.C8A325BE.Up2Date
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\obj\Debug\net8.0\Courses_Students.Services.dll
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\obj\Debug\net8.0\refint\Courses_Students.Services.dll
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\obj\Debug\net8.0\Courses_Students.Services.pdb
+C:\Users\User\source\repos\Courses_StudentsAPI\Courses_Students.Services\obj\Debug\net8.0\ref\Courses_Students.Services.dll
